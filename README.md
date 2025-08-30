@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**gabrielecabrini/gabrielecabrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriele Cabrini, an Italian software developer passionate about building innovative applications. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer based in Italy. With a keen interest in various programming languages and technologies, I enjoy tackling challenges and creating effective solutions. Currently, I'm focusing on enhancing my skills in Go and Rust while also exploring the world of web development.
+
+## Top Projects
+
+- [Brainfucker](https://github.com/gabrielecabrini/brainfucker): Brainfuck interpreter & LLVM IR transpiler
+- [Dyndns Client](https://github.com/gabrielecabrini/dyndns-client): A dynamic DNS client
+- [Sossoldi](https://github.com/gabrielecabrini/sossoldi): Wealth management tool made with Flutter
+- [Tcp Proxy](https://github.com/gabrielecabrini/tcp-proxy): Simple configurable TCP Proxy made with async Rust
