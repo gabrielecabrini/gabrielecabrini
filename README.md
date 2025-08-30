@@ -6,8 +6,7 @@ I'm Gabriele Cabrini, an Italian software developer passionate about building in
 
 I'm a software developer based in Italy. With a keen interest in various programming languages and technologies, I enjoy tackling challenges and creating effective solutions. Currently, I'm focusing on enhancing my skills in Go and Rust while also exploring the world of web development.
 
-# Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielecabrini&theme=transparent&hide_border=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielecabrini&theme=transparent&hide_border=true&layout=compact)]()
 
 ## Top Projects
 
