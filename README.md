@@ -14,4 +14,4 @@ Based in Italy, I enjoy exploring a wide range of technologies and programming l
 - [Dyndns Client](https://github.com/gabrielecabrini/dyndns-client): Lightweight dynamic DNS client to keep your domain updated automatically.  
 - [Sossoldi](https://github.com/gabrielecabrini/sossoldi): Flutter-based personal finance tool for managing and tracking wealth easily.  
 - [Tcp Proxy](https://github.com/gabrielecabrini/tcp-proxy): Configurable TCP proxy built with async Rust for fast and reliable network routing.  
-- [DoH](https://github.com/gabrielecabrini/doh): DNS-over-HTTPS resolver to ensure private and secure DNS queries.
+- [RDoH](https://github.com/gabrielecabrini/rdoh): DNS-over-HTTPS resolver to ensure private and secure DNS queries.
