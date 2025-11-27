@@ -14,3 +14,4 @@ I'm a software developer based in Italy. With a keen interest in various program
 - [Dyndns Client](https://github.com/gabrielecabrini/dyndns-client): A dynamic DNS client
 - [Sossoldi](https://github.com/gabrielecabrini/sossoldi): Wealth management tool made with Flutter
 - [Tcp Proxy](https://github.com/gabrielecabrini/tcp-proxy): Simple configurable TCP Proxy made with async Rust
+- [DoH](https://github.com/gabrielecabrini/doh): DNS-over-HTTPS resolver
